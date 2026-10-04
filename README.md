@@ -14,7 +14,7 @@ models, at Toyota / Toyota Research Institute.
 
 Browser-only, no server, no data leaving the client — built and shipped solo.
 
-- **[BayesRobo](https://ks278810.github.io/bayesrobo/)** — Gaussian-process active learning / Bayesian optimization, runs entirely in the browser (Pyodide/WebAssembly).
+- **[BayesRobo](https://ks278810.github.io/BayesRobo/)** — Gaussian-process active learning / Bayesian optimization, runs entirely in the browser (Pyodide/WebAssembly).
 - **[Surrobot](https://ks278810.github.io/surrobot/)** — drop a CSV, auto-train and compare regression models (linear, gradient-boosted trees, Gaussian processes, neural nets).
 
 #### Research
