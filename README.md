@@ -16,6 +16,7 @@ Browser-only, no server, no data leaving the client — built and shipped solo.
 
 - **[BayesRobo](https://ks278810.github.io/BayesRobo/)** — Gaussian-process active learning / Bayesian optimization, runs entirely in the browser (Pyodide/WebAssembly).
 - **[Surrobot](https://ks278810.github.io/surrobot/)** — drop a CSV, auto-train and compare regression models (linear, gradient-boosted trees, Gaussian processes, neural nets).
+- **[AdRobo](https://ks278810.github.io/adrobo/)** — drop a sensor CSV and find anomalies in time series with shallow methods, in the browser.
 
 #### Research
 
