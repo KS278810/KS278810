@@ -9,7 +9,7 @@ Generative 3D design, structural optimization, Bayesian active learning, and red
 **LinkedIn:** [kohei-shintani-9b20a6175](https://www.linkedin.com/in/kohei-shintani-9b20a6175/) ·
 **ResearchGate:** [Kohei-Shintani](https://www.researchgate.net/profile/Kohei-Shintani)
 
-<p align="center"><img src="assets/robotools-band.png" width="880" alt="RoboTools"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/robotools-band-dark.png"><img src="assets/robotools-band.png" width="880" alt="RoboTools"></picture></p>
 
 画面と操作をそろえた、データ解析ツールのシリーズ。<br>
 公開中の5つは、ブラウザだけで動きます。データは外に出ません。<br>
