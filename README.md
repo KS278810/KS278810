@@ -9,7 +9,7 @@ Generative 3D design, structural optimization, Bayesian active learning, and red
 **LinkedIn:** [kohei-shintani-9b20a6175](https://www.linkedin.com/in/kohei-shintani-9b20a6175/) ·
 **ResearchGate:** [Kohei-Shintani](https://www.researchgate.net/profile/Kohei-Shintani)
 
-<p align="center"><img src="assets/robotools-band.gif" width="880" alt="RoboTools"></p>
+<p align="center"><img src="assets/robotools-band.png" width="880" alt="RoboTools"></p>
 
 画面と操作をそろえた、データ解析ツールのシリーズ。<br>
 公開中の5つは、ブラウザだけで動きます。データは外に出ません。<br>
@@ -63,7 +63,7 @@ Generative 3D design, structural optimization, Bayesian active learning, and red
 
 #### ResearchRobo ・ 調べものを、出典つきのレポートに
 
-<a href="https://ks278810.github.io/research-robo/"><img src="assets/researchrobo.png" width="600" alt="ResearchRobo エンジニアのためのベンチマーク調査ツール"></a>
+<a href="https://ks278810.github.io/research-robo/"><img src="assets/researchrobo.png" width="760" alt="ResearchRobo エンジニアのためのベンチマーク調査ツール"></a>
 
 > 調べたいことを書くだけ。AIチャットのDeep Researchを、出典で裏づけられた証拠ベースのベンチマーク調査レポートに変える無料のプロンプトキット。登録不要、CC BY 4.0。
 >
