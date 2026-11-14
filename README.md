@@ -1,8 +1,8 @@
 ### Kohei Shintani, Ph.D.
 
-トヨタ自動車と Toyota Research Institute で、自動車工学と機械学習の橋渡し。<br>
+自動車工学と機械学習の橋渡しを研究しています。<br>
 **生成AIによる3D設計 ・ 構造最適化 ・ ベイズ能動学習 ・ 低次元サロゲートモデル**<br>
-Bridging automotive engineering and machine learning, at Toyota and Toyota Research Institute.<br>
+Research bridging automotive engineering and machine learning.<br>
 Generative-AI 3D design, structural optimization, Bayesian active learning, and reduced-order surrogate models.
 
 **Site:** [ks278810.github.io/website](https://ks278810.github.io/website/) ·
