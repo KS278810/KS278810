@@ -9,10 +9,13 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 **LinkedIn:** [kohei-shintani-9b20a6175](https://www.linkedin.com/in/kohei-shintani-9b20a6175/) ·
 **ResearchGate:** [Kohei-Shintani](https://www.researchgate.net/profile/Kohei-Shintani)
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/robotools-band-dark.png"><img src="assets/robotools-band.png" width="880" alt="RoboTools"></picture></p>
+<p align="center"><a href="https://ks278810.github.io/robohub/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/robotools-band-dark.png"><img src="assets/robotools-band.png" width="880" alt="RoboTools のランチャーを開く"></picture></a></p>
 
-公開中の5つは、ブラウザだけで動きます。データのアップロードは不要です。<br>
-<sub>The five public tools run only in your browser. No data upload is needed.</sub>
+<p align="center"><b><a href="https://ks278810.github.io/robohub/">6つを1画面で選ぶ ・ ランチャーを開く</a></b><br>
+<sub><a href="https://ks278810.github.io/robohub/">All six on one page. Open the launcher.</a></sub></p>
+
+6つのうち5つは、ブラウザだけで動きます。データのアップロードは不要です。<br>
+<sub>Five of the six run only in your browser. No data upload is needed.</sub>
 
 <table width="100%">
 <tr>
@@ -47,8 +50,8 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 <b><a href="https://ks278810.github.io/adrobo/">AdRobo</a></b><br>
 <b>時系列データの「いつもと違う」区間を、見つける。</b><br>
 <sub>Spots unusual stretches in your time series.</sub>
-<p align="left">正常な区間を選ぶと、時系列の中から異常な区間を探します。TeVAE、ScatterAD など5つの手法を比べられ、異常の原因になった列も確認できます。<br>
-<sub>Mark the normal stretch and it finds the anomalous ones. Five methods, including TeVAE and ScatterAD, can be compared, and the columns behind each anomaly are shown.</sub></p>
+<p align="left">正常な区間を選ぶと、時系列の中から異常な区間を探します。TeVAE など4つの手法を比べられ、異常の原因になった列も確認できます。<br>
+<sub>Mark the normal stretch and it finds the anomalous ones. Four methods, including TeVAE, can be compared, and the columns behind each anomaly are shown.</sub></p>
 </td>
 </tr>
 <tr>
@@ -72,6 +75,9 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 </table>
 
 <p align="center"><sub>SurRobo-D は GPU が必要なため、公開デモはありません。 / SurRobo-D needs a GPU, so there is no public demo.</sub></p>
+
+<p align="center">自社の GPU サーバーに置く版は、<a href="https://www.linkedin.com/in/kohei-shintani-9b20a6175/">LinkedIn</a> からご相談ください。<br>
+<sub>For a version hosted on your own GPU server, please get in touch on <a href="https://www.linkedin.com/in/kohei-shintani-9b20a6175/">LinkedIn</a>.</sub></p>
 
 #### 研究 / Research
 
