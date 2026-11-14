@@ -70,15 +70,15 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 
 **構造最適化 / Structural optimization**
 
-- Data-driven topology optimization using a multitask conditional variational autoencoder with persistent homology<br>*Structural and Multidisciplinary Optimization*, 2024 ・ データ駆動のトポロジー最適化。マルチタスク条件付きVAEと永続ホモロジー。
-- Multimaterial homologous topology optimization of large telescope structure under multiple elevation conditions<br>*Structural and Multidisciplinary Optimization*, 2024 ・ 大型望遠鏡構造の、複数の仰角条件でのマルチマテリアルなトポロジー最適化。
-- Robust topology optimization of multi-material lattice structures under material and load uncertainties<br>*Frontiers of Mechanical Engineering*, 2019 ・ 材料と荷重のばらつきに強い、多材料格子構造のロバストトポロジー最適化。
+- Data-driven topology optimization using a multitask conditional variational autoencoder with persistent homology<br>*Structural and Multidisciplinary Optimization*, 2024<br>データ駆動のトポロジー最適化。マルチタスク条件付きVAEと永続ホモロジー。
+- Multimaterial homologous topology optimization of large telescope structure under multiple elevation conditions<br>*Structural and Multidisciplinary Optimization*, 2024<br>大型望遠鏡構造の、複数の仰角条件でのマルチマテリアルなトポロジー最適化。
+- Robust topology optimization of multi-material lattice structures under material and load uncertainties<br>*Frontiers of Mechanical Engineering*, 2019<br>材料と荷重のばらつきに強い、多材料格子構造のロバストトポロジー最適化。
 
 ResearchGate の登録数で60本、特許9件。全リストは [Site](https://ks278810.github.io/website/#research) の「すべて表示」にあります。<br>
 <sub>60 papers as registered on ResearchGate, and 9 patents. The full list is on the site.</sub>
 
 #### ResearchRobo ・ 調べものを、出典つきのレポートに
-<sub>Research, turned into a sourced report.</sub>
+<sub>Research, turned into a sourced report.</sub><br>
 
 <a href="https://ks278810.github.io/research-robo/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/researchrobo-dark.png"><img src="assets/researchrobo.png" width="880" alt="ResearchRobo エンジニアのためのベンチマーク調査ツール"></picture></a>
 
