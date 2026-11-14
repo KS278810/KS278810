@@ -17,7 +17,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-<a href="https://ks278810.github.io/BayesRobo/"><img src="assets/bayesrobo.gif" width="420" alt="BayesRobo の操作画面"></a><br>
+<a href="https://ks278810.github.io/BayesRobo/"><img src="assets/bayesrobo.gif" width="390" alt="BayesRobo の操作画面"></a><br>
 <b><a href="https://ks278810.github.io/BayesRobo/">BayesRobo</a></b><br>
 <b>次に試す条件を、ベイズ最適化で提案する。</b><br>
 <sub>Suggests what to try next.</sub>
@@ -25,7 +25,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 <sub>Drop a CSV and it fits a Gaussian-process surrogate in the browser. Choose between chasing the optimum and filling sparse regions, and it proposes the next point to run.</sub></p>
 </td>
 <td align="center" valign="top" width="50%">
-<a href="https://ks278810.github.io/surrobot/"><img src="assets/surrobot.gif" width="420" alt="SurRobo の操作画面"></a><br>
+<a href="https://ks278810.github.io/surrobot/"><img src="assets/surrobot.gif" width="390" alt="SurRobo の操作画面"></a><br>
 <b><a href="https://ks278810.github.io/surrobot/">SurRobo</a></b><br>
 <b>予測モデルを自動で作り、勝者を選ぶ。</b><br>
 <sub>Builds the models and picks the winner.</sub>
@@ -35,7 +35,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-<a href="https://ks278810.github.io/surrobo-s/"><img src="assets/surrobo-s.gif" width="420" alt="SurRobo-S の操作画面"></a><br>
+<a href="https://ks278810.github.io/surrobo-s/"><img src="assets/surrobo-s.gif" width="390" alt="SurRobo-S の操作画面"></a><br>
 <b><a href="https://ks278810.github.io/surrobo-s/">SurRobo-S</a></b><br>
 <b>データの裏にある式を、見つけ出す。</b><br>
 <sub>Finds the formula behind your data.</sub>
@@ -43,7 +43,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 <sub>Drop a CSV and pick the target column, and it searches for a formula that fits. The formula can be taken away as Python, C or Excel code.</sub></p>
 </td>
 <td align="center" valign="top" width="50%">
-<a href="https://ks278810.github.io/adrobo/"><img src="assets/adrobo.gif" width="420" alt="AdRobo の操作画面"></a><br>
+<a href="https://ks278810.github.io/adrobo/"><img src="assets/adrobo.gif" width="390" alt="AdRobo の操作画面"></a><br>
 <b><a href="https://ks278810.github.io/adrobo/">AdRobo</a></b><br>
 <b>時系列データの「いつもと違う」区間を、見つける。</b><br>
 <sub>Spots unusual stretches in your time series.</sub>
@@ -53,7 +53,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-<a href="https://ks278810.github.io/sigrobo/"><img src="assets/sigrobo.gif" width="420" alt="SigRobo の操作画面"></a><br>
+<a href="https://ks278810.github.io/sigrobo/"><img src="assets/sigrobo.gif" width="390" alt="SigRobo の操作画面"></a><br>
 <b><a href="https://ks278810.github.io/sigrobo/">SigRobo</a></b><br>
 <b>時系列の予測を、同じ条件で比べる。</b><br>
 <sub>Compares forecasting models under the same conditions.</sub>
@@ -61,7 +61,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 <sub>Drop a CSV and pick the target, and it trains several models under the same conditions and compares them. It checks against a naive forecast and supports three tasks: sequence to sequence, forecasting, and sequence to scalar.</sub></p>
 </td>
 <td align="center" valign="top" width="50%">
-<img src="assets/surrobo-d.gif" width="420" alt="SurRobo-D の操作画面"><br>
+<img src="assets/surrobo-d.gif" width="390" alt="SurRobo-D の操作画面"><br>
 <b>SurRobo-D</b><br>
 <b>作った予測モデルを、exe 1つで渡す。</b><br>
 <sub>Ships your model as a single exe.</sub>
