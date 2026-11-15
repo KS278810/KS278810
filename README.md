@@ -66,10 +66,10 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 <td align="center" valign="top" width="50%">
 <img src="assets/surrobo-d.gif" width="390" alt="SurRobo-D の操作画面"><br>
 <b>SurRobo-D</b><br>
-<b>作った予測モデルを、exe 1つで渡す。</b><br>
-<sub>Ships your model as a single exe.</sub>
-<p align="left">予測モデルを学習し、蒸留、つまり小さなモデルへの写し取りで軽くします。仕上がったモデルは、exe 1つにして渡せます。<br>
-<sub>It trains a prediction model and slims it down by distillation, which copies the model into a smaller one. The finished model ships as a single exe.</sub></p>
+<b>基盤モデルを活用した蒸留で、軽い予測モデルを作る。</b><br>
+<sub>Distills a foundation model into a light prediction model.</sub>
+<p align="left">表データの基盤モデルを教師にして、その知識を LightGBM に蒸留します。教師を含まない軽い exe 1つにして渡せます。<br>
+<sub>A tabular foundation model acts as the teacher, and its knowledge is distilled into LightGBM. It ships as one light exe, with no teacher inside.</sub></p>
 </td>
 </tr>
 </table>
