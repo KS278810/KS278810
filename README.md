@@ -9,7 +9,7 @@ Generative-AI 3D design, structural optimization, Bayesian active learning, and 
 **LinkedIn:** [kohei-shintani-9b20a6175](https://www.linkedin.com/in/kohei-shintani-9b20a6175/) ·
 **ResearchGate:** [Kohei-Shintani](https://www.researchgate.net/profile/Kohei-Shintani)
 
-<p align="center"><a href="https://ks278810.github.io/robohub/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/robotools-band-dark.png"><img src="assets/robotools-band.png" width="640" alt="RoboTools のランチャーを開く"></picture></a></p>
+<p align="center"><a href="https://ks278810.github.io/robohub/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/robotools-band-v2-dark.png"><img src="assets/robotools-band-v2.png" width="640" alt="RoboTools のランチャーを開く"></picture></a></p>
 
 <p align="center"><b><a href="https://ks278810.github.io/robohub/">6つを1画面で選ぶ ・ ランチャーを開く</a></b><br>
 <sub><a href="https://ks278810.github.io/robohub/">All six on one page. Open the launcher.</a></sub></p>
